@@ -1,0 +1,19 @@
+.body {
+  background-color: #dbd9d4 !important;
+}
+
+.body ul {
+  text-decoration: none;
+}
+
+.body ul li a {
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #92816f;
+}
+
+.cafe {
+    width: 50%;
+}
